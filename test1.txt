@@ -1,2 +1,4 @@
-Hi.  This is pinki akter. I am a recent graduate from CUET CSE 18 batch. 
+Hi.  This is pinki akter. I am a recent graduate from CUET CSE 18 batch.
 I am looking forward to learn git and do real world project in AI related fields.
+ 
+I am Pinki Akter...
